@@ -1,0 +1,8 @@
+[
+	{"name": "John", "age": "22", "job": "Student"},
+	{"name": "Chris", "age": "22", "job": "Student"},
+	{"name": "Danny", "age": "35", "job": "Doctor"},
+	{"name": "Jose", "age": "30", "job": "Driver"},
+	{"name": "Christain", "age": "25", "job": "Clerk"},
+	{"name": "David", "age": "33", "job": "Driver"}
+]
